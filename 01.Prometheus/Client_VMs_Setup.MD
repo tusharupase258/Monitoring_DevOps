@@ -1,4 +1,4 @@
-```markdown
+```
 # Node Exporter Installation on Ubuntu VM
 
 This guide provides step-by-step instructions for installing and running Node Exporter on Ubuntu VMs to collect system metrics.
