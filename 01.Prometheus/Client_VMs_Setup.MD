@@ -1,7 +1,3 @@
----
-
-## **README for Node Exporter Client VM Setup**
-
 ```markdown
 # Node Exporter Installation on Ubuntu VM
 
