@@ -8,6 +8,8 @@ This guide provides step-by-step instructions for installing and running Prometh
 - `wget` installed
 - Basic knowledge of terminal operations
 
+
+
 ## Step 1: Update System Packages
 Make sure your system is up to date:
 
