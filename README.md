@@ -29,7 +29,7 @@ The repository is organized into the following key components:
 
 ## Contributing
 
-We welcome contributions from the community! Whether you have ideas for improving documentation, want to add new features, or have a bug fix, please feel free to submit a pull request. For more details, check out our [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome contributions from the community! Whether you have ideas for improving documentation, want to add new features, or have a bug fix, please feel free to submit a pull request. For more details, Contact Owner
 
 ## License
 
