@@ -12,13 +12,15 @@ This guide provides step-by-step instructions for installing and running Node Ex
 
 ## Steps
 
-### Step 1: Update System Packages
+### **Step 1: Update System Packages**
 Make sure your system is up to date:
 
 ```bash
 sudo apt update
 sudo apt upgrade -y
 ```
+
+---
 
 ### Step 2: Download Node Exporter Binary
 Find the latest release of Node Exporter from the [official release page](https://prometheus.io/download/) and replace `x.y.z` with the latest version number:
